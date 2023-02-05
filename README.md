@@ -1,16 +1,23 @@
 # Data engineering project: data engineering in the current job market
 
-
 ## Introduction
 ### Context
-Data engineering being an emerging domain in the job market, it is undeniable that data practitioners are highly sought after. In a jungle of job offers, there should be a strategy to stay competitive on the market: to be qualified for as many job offers as possible, with a salary as high as possible. It is thus an interesting idea for us to carry out a data engineering project on the data engineering market with an emphasis on required tech stack in this field, in the context of our project for the module Foundation of data engineering at INSA Lyon, taught by prof. Riccardo Tommasini.
+Data engineering being an emerging domain in the job market, it is undeniable that data practitioners are highly sought after. In the jungle of job offers, there should be a strategy to stay competitive on the job market: to be qualified for as many job offers as possible with an ideal level of salary. It is thus an interesting idea for us to carry out a data engineering project on the data engineering market with an emphasis on required tech stack in this field. This project is part of our project for the module Foundation of data engineering at INSA Lyon, taught by prof. Riccardo Tommasini.
 
 ### Objective
 This project aims to construct a data pipeline which extracts, transforms and loads data engineering job data into a more structured type to serve further analysis. For the demo of the analysis, there are two basic questions implemented:
-What are the most demanded tech skills in the current data engineering job market?
-How is the popularity of these tech skills positioned with respect to the potential salary they can offer?
-and a more advanced one which can be further developed in the future: what are the clusters of tech skills that usually form the so-called “tech stack”?
+- What are the most demanded tech skills in the current data engineering job market?
+- How is the popularity of these tech skills positioned with respect to the potential salary they can offer?
 
+Additionally, a more advanced question can be further addressed in the next version of the project: what are the clusters of tech skills that usually form the so-called “tech stack”?
+
+### Instruction
+
+- Prerequisite: docker installed
+- In the repo, run the command: docker-compose up
+- Access to Airflow WebApp: http://localhost:8080
+- Access to Jupyter Notebook: http://localhost:8888
+- To explore the visualization of the final presentation layer or perform further analysis, open visualisation.ipynb in Jupyter Notebook
 
 ## Data source
 There are two datasets used in this project:
