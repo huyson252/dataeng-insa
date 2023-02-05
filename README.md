@@ -2,7 +2,7 @@
 
 ## Introduction
 ### Context
-Data engineering being an emerging domain in the job market, it is undeniable that data practitioners are highly sought after. In the jungle of job offers, there should be a strategy to stay competitive on the job market: to be qualified for as many job offers as possible with an ideal level of salary. It is thus an interesting idea for us to carry out *a data engineering project on the data engineering market* with an emphasis on required tech stack in this field. This project is part of our project for the module Foundation of data engineering at INSA Lyon, taught by prof. Riccardo Tommasini.
+Data engineering being an emerging domain in the job market, it is undeniable that data practitioners are highly sought after. In the jungle of job offers, there should be a strategy to stay competitive on the job market: to be qualified for as many job offers as possible with an ideal level of salary. It is thus an interesting idea for us to carry out *a data engineering project on the data engineering market* with an emphasis on required tech stack in this field. This project is part of our project in the course *Foundation of data engineering* taught by Prof. Riccardo Tommasini at INSA Lyon .
 
 ### Objective
 This project aims to construct a data pipeline which extracts, transforms and loads data engineering job data into a more structured type to serve further analysis. For the demo of the analysis, there are two basic questions implemented:
