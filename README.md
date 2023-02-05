@@ -48,11 +48,11 @@ Contains discussions about current data engineer roles with additional informati
 
 
 ## Downstream usage - visualization
-For this part, a word cloud  of the most demanded tech skills is created to emphasize the importance of their appearance in the data engineering job market. In addition, a scattered graph is plotted with one axis being the frequency of appearance of tech skills in data engineering and the other axis being the corresponding average salary for the job offers containing that tech skill. 
+For this part, a word cloud of the most demanded tech skills is created to emphasize the importance of their appearance in the data engineering job market.  In addition, a scattered graph is plotted with one axis being the frequency of appearance of tech skills in data engineering and the other axis being the corresponding average salary for the job offers containing that tech skill. 
 
 ![](word_cloud.png)
 ![](tech_scatter.png)
 
 ## Potential improvement & extension in the future
-As mentioned at the beginning of this brief report, a graph database can be used to express the relationships between the tech skills to form a cluster of tech (“tech stack”),  with weighted relations according to their coherence.
+For advanced analysis, a graph database can be used to express the relationships between the tech skills to form a cluster of tech (“tech stack”),  with weighted relations according to their coherence.
 
