@@ -1,0 +1,11 @@
+kaggle
+pandas
+pymongo
+fuzzywuzzy
+psycopg2-binary
+neo4j
+neo4jupyter
+matplotlib
+wordcloud
+statistics
+praw
